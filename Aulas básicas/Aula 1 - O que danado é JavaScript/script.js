@@ -1,0 +1,1 @@
+alert("E ae garoto, ta tudo certo!")
